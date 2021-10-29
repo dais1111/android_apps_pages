@@ -5,11 +5,11 @@
 2. アプリケーションから当サイトにリンク
 
 ### 利用者関与の方法
-利用を取りやめる場合は、アプリケーションをアンインストールしてください。  
-アプリケーションで自動作成されたファイルは全て削除されます。  
+利用を取りやめる場合は、アプリケーションをアンインストールしてください。<br/>
+アプリケーションで自動作成されたファイルは全て削除されます。<br/>
 （別途バックアップを作成した場合は、不要な場合は手動で削除してください。）
 
 ### 外部送信・第三者提供・情報モジュールの有無
 外部送信・第三者提供：アプリケーション内で使用するのみで、外部送信・第三者提供いたしません。
 
-Languages: [English](https://dais1111.github.io/android_apps_pages/masterkey/privacy_policy_en) | 日本語
+Languages  [English](https://dais1111.github.io/android_apps_pages/masterkey/privacy_policy_en)  日本語
