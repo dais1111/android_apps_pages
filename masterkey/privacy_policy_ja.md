@@ -12,4 +12,4 @@
 ### 外部送信・第三者提供・情報モジュールの有無
 外部送信・第三者提供：アプリケーション内で使用するのみで、外部送信・第三者提供いたしません。
 
-Languages:[English](https://dais1111.github.io/android_apps_pages/masterkey/privacy_policy_en.html) | 日本語
+Languages: [English](https://dais1111.github.io/android_apps_pages/masterkey/privacy_policy_en.html) | 日本語
